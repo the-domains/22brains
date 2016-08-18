@@ -1,7 +1,7 @@
 name: 22brains
 favicon: null
-layout_spectrum: 0.2708470933139324
-typography_spectrum: 0.5482047530822456
+layout_spectrum: 0
+typography_spectrum: 0.40734
 cta:
   domain: null
   bucket: null
