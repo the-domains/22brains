@@ -1,0 +1,28 @@
+name: 22brains
+favicon: null
+layout_spectrum: 0.2708470933139324
+typography_spectrum: 0.5482047530822456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.1658540484495461
+  lightness: 0.3862663919571787
+  saturation: 0.33122241124510765
+  rhythmicContrast: 0.7734428998082876
+purpose: []
